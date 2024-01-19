@@ -1,0 +1,4 @@
+7 questions to ask to anlyze data
+Univariate
+Multivariate
+Bivariate
